@@ -9,6 +9,11 @@ authors = [
 requires-python = ">=3.13"
 dependencies = [
     "fastapi[standard]>=0.141.1",
+    "numpy>=2.5.3",
+    "pandas>=3.0.5",
+    "psycopg2>=2.9.13",
+    "sqlalchemy>=2.0.54",
+    "uvicorn>=0.53.0",
 ]
 
 [project.scripts]
@@ -17,3 +22,6 @@ leadmanagement = "leadmanagement:main"
 [build-system]
 requires = ["uv_build>=0.12.14,<0.13.0"]
 build-backend = "uv_build"
+
+[tool.fastapi]
+entrypoint = "leadmanagement.main:app"
