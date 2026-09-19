@@ -1,52 +1,15 @@
 from fastapi import FastAPI, Depends, HTTPException, status
 from models.lead import Lead
-from database import engine, session
+from database import get_db
 from sqlalchemy.orm import Session
 from schemas.lead import LeadDB
-from sqlalchemy import or_, select, func
+from sqlalchemy import select, func
 import io
 from fastapi.responses import StreamingResponse
 import pandas as pd
+from helper.leads import apply_lead_filters 
 
 app = FastAPI()
-
-def get_db():
-    db = session()
-    try:
-        yield db
-    finally:
-        db.close()
-
-def apply_lead_filters(
-    query,
-    status: str | None = None,
-    owner: str | None = None,
-    country: str | None = None,
-    q: str | None = None,
-):
-    if status:
-        search_status = f"%{status}%"
-        query = query.filter(LeadDB.lead_status.ilike(search_status))
-
-    if owner:
-        search_owner = f"%{owner}%"
-        query = query.filter(LeadDB.contact_owner.ilike(search_owner))
-
-    if country:
-        query = query.filter(LeadDB.country.ilike(country))
-
-    if q:
-        search = f"%{q}%"
-
-        query = query.filter(
-            or_(
-                LeadDB.resolved_name.ilike(search),
-                LeadDB.company_name.ilike(search),
-                LeadDB.email.ilike(search),
-            )
-        )
-
-    return query
 
 @app.get("/leads")
 def get_leads(
