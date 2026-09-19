@@ -1,0 +1,297 @@
+lead_a,lead_b,confidence,explanation
+100236830,100236831,0.98,same phone number; same email; very similar name; very similar company
+100236386,100236387,0.97,same phone number; same email; very similar name; very similar company
+100235156,100235157,0.97,same phone number; same email; very similar name
+100235219,100235220,0.97,same phone number; same email; very similar name
+100235413,100235414,0.97,same phone number; same email; very similar name
+100235599,100235600,0.97,same phone number; same email; very similar name
+100236426,100236427,0.97,same phone number; same email; very similar name
+100234963,100234964,0.97,same phone number; same email; very similar name
+100235821,100235822,0.97,same phone number; same email; very similar name
+100235704,100235705,0.96,same phone number; same email; very similar name
+100236597,100236598,0.96,same phone number; same email; very similar name
+100236602,100236603,0.96,same phone number; same email; very similar name
+100235855,100235857,0.96,same phone number; same email; very similar name
+100236250,100236251,0.96,same phone number; same email; very similar name
+100236338,100236339,0.96,same phone number; same email; very similar company
+100235761,100235762,0.96,same phone number; same email; very similar name
+100235233,100235234,0.96,same phone number; same email; very similar name
+100235994,100235995,0.95,same phone number; same email; very similar name
+100236327,100236328,0.95,same phone number; same email; very similar name
+100235870,100235871,0.95,same phone number; same email; very similar name
+100235261,100235262,0.95,same phone number; same email; very similar name
+100236278,100236279,0.95,same phone number; same email; very similar name
+100235213,100235214,0.95,same phone number; same email; very similar name
+100234993,100234994,0.95,same phone number; same email; very similar name
+100234871,100234872,0.95,same phone number; same email; very similar name
+100236588,100236589,0.95,same phone number; same email; very similar name
+100236405,100236406,0.95,same phone number; same email; very similar name
+100235391,100235392,0.95,same phone number; same email; very similar name
+100234907,100234908,0.94,same phone number; same email; very similar name
+100235951,100235952,0.94,same phone number; same email; very similar name
+100236661,100236662,0.94,same phone number; same email; very similar name
+100235808,100235809,0.94,same phone number; same email; very similar name
+100235021,100235022,0.94,same phone number; same email; very similar name
+100236797,100236798,0.94,same phone number; same email; very similar name
+100235850,100235851,0.94,same phone number; same email; very similar company
+100235898,100235900,0.94,same phone number; same email; very similar name
+100236108,100236109,0.93,same phone number; same email; very similar name
+100234995,100234996,0.93,same phone number; same email
+100234834,100234835,0.93,same phone number; same email
+100235479,100235480,0.93,same phone number; same email; very similar name
+100235551,100235552,0.93,same phone number; same email; very similar name
+100235966,100235968,0.93,same phone number; same email; very similar name
+100235129,100235130,0.92,same phone number; same email
+100236382,100236383,0.92,same phone number; same email; very similar name
+100234854,100234855,0.92,same phone number; same email; very similar name
+100234966,100234968,0.92,same phone number; same email
+100235756,100235758,0.92,same phone number; same email
+100235406,100235407,0.92,same phone number; same email; very similar name
+100235660,100235661,0.92,same phone number; same email; very similar name
+100236432,100236433,0.92,same phone number; same email
+100235193,100235194,0.91,same phone number; same email
+100236127,100236128,0.91,same phone number; same email
+100235394,100235395,0.91,same phone number; same email
+100236037,100236038,0.91,same phone number; same email
+100234921,100234922,0.9,same phone number; same email
+100236079,100236080,0.9,same phone number; same email
+100236391,100236392,0.89,same phone number; same email
+100236129,100236130,0.88,same phone number; same email
+100236371,100236372,0.65,same phone number; very similar name; very similar company
+100235641,100235643,0.64,same phone number; very similar name; very similar company
+100235756,100235757,0.64,same phone number; very similar name; very similar company
+100236431,100236432,0.64,same phone number; very similar name; very similar company
+100236747,100236748,0.63,same phone number; very similar name; very similar company
+100235829,100235830,0.63,same phone number; very similar name; very similar company
+100236541,100236542,0.63,same phone number; very similar name; very similar company
+100235408,100235409,0.63,same phone number; very similar name; very similar company
+100236746,100236748,0.63,same phone number; very similar name; very similar company
+100236026,100236027,0.63,same phone number; very similar name; very similar company
+100236210,100236211,0.63,same phone number; very similar name; very similar company
+100235573,100235574,0.63,same phone number; very similar name; very similar company
+100235869,100235871,0.63,same phone number; very similar name; very similar company
+100236746,100236747,0.62,same phone number; very similar name; very similar company
+100235856,100235857,0.62,same phone number; very similar name
+100236563,100236564,0.62,same phone number; very similar name
+100235457,100235458,0.62,same phone number; very similar name; very similar company
+100236047,100236048,0.62,same phone number; very similar name
+100235001,100235002,0.62,same phone number; very similar name
+100235157,100235158,0.62,same phone number; very similar name
+100236571,100236572,0.62,same phone number; very similar name
+100236020,100236021,0.62,same phone number; very similar name
+100234979,100234980,0.62,same phone number; very similar name; very similar company
+100236659,100236660,0.62,same phone number; very similar name; very similar company
+100235071,100235072,0.62,same phone number; very similar name
+100235417,100235418,0.62,same phone number; very similar name
+100235138,100235139,0.62,same phone number; very similar name
+100236175,100236176,0.62,same phone number; very similar name
+100234918,100234919,0.62,same phone number; very similar name; very similar company
+100235689,100235690,0.62,same phone number; very similar name
+100236639,100236640,0.62,same phone number; very similar name
+100235538,100235539,0.62,same phone number; very similar name
+100236002,100236003,0.62,same phone number; very similar name
+100236425,100236426,0.62,same phone number; very similar name
+100235156,100235158,0.62,same phone number; very similar name
+100235752,100235753,0.62,same phone number; very similar name
+100236459,100236460,0.62,same phone number; very similar name
+100235202,100235203,0.62,same phone number; very similar name
+100235455,100235456,0.62,same phone number; very similar name
+100235909,100235910,0.62,same phone number; very similar name
+100235019,100235020,0.62,same phone number; very similar name
+100235981,100235982,0.62,same phone number; very similar name
+100235641,100235642,0.62,same phone number; very similar name
+100236647,100236648,0.62,same phone number; very similar name; very similar company
+100235450,100235451,0.62,same phone number; very similar name
+100235855,100235856,0.61,same phone number; very similar name
+100236681,100236682,0.61,same phone number; very similar name
+100236475,100236476,0.61,same phone number; very similar name
+100235952,100235953,0.61,same phone number; very similar name
+100236137,100236138,0.61,same phone number; very similar name
+100235808,100235810,0.61,same phone number; very similar name
+100235917,100235918,0.61,same phone number; very similar name
+100235642,100235643,0.61,same phone number; very similar name
+100236538,100236539,0.61,same phone number; very similar name
+100235313,100235314,0.61,same phone number; very similar name
+100235869,100235870,0.61,same phone number; very similar name
+100234962,100234964,0.61,same phone number; very similar name
+100235617,100235618,0.61,same phone number; very similar name
+100235494,100235495,0.61,same phone number; very similar company
+100234856,100234857,0.61,same phone number; very similar name
+100236509,100236510,0.61,same phone number; very similar name
+100236385,100236386,0.61,same phone number; very similar name
+100236666,100236667,0.61,same phone number; very similar name
+100236818,100236819,0.61,same phone number; very similar name
+100235377,100235378,0.61,same phone number; very similar name
+100236786,100236787,0.61,same phone number; very similar name
+100235847,100235848,0.61,same phone number; very similar name
+100235379,100235380,0.61,same phone number; very similar name
+100234962,100234963,0.61,same phone number; very similar name
+100235330,100235331,0.61,same phone number; very similar name
+100235881,100235882,0.61,same phone number; very similar name
+100235354,100235355,0.61,same phone number; very similar name
+100236190,100236191,0.61,same phone number; very similar name
+100235396,100235397,0.61,same phone number; very similar name
+100236525,100236526,0.61,same phone number; very similar name
+100234960,100234961,0.61,same phone number; very similar name
+100235791,100235792,0.61,same phone number; very similar name
+100236385,100236387,0.61,same phone number; very similar name
+100235728,100235729,0.61,same phone number; very similar name
+100235669,100235670,0.61,same phone number; very similar name
+100235237,100235238,0.61,same phone number; very similar name
+100234967,100234968,0.61,same phone number; very similar name
+100235486,100235487,0.61,same phone number; very similar name
+100236221,100236222,0.61,same phone number; very similar name
+100236772,100236773,0.61,same phone number; very similar name
+100236425,100236427,0.61,same phone number; very similar name
+100236590,100236591,0.6,same phone number; very similar name
+100234846,100234847,0.6,same phone number; very similar name
+100235563,100235564,0.6,same phone number; very similar name
+100235710,100235711,0.6,same phone number; very similar name
+100236619,100236620,0.6,same phone number; very similar name
+100236596,100236597,0.6,same phone number; very similar name
+100234976,100234977,0.6,same phone number; very similar name
+100235431,100235432,0.6,same phone number; very similar name
+100236511,100236512,0.6,same phone number; very similar name
+100236043,100236044,0.6,same phone number; very similar name
+100235245,100235246,0.6,same phone number; very similar company
+100236696,100236697,0.6,same phone number; very similar name
+100236037,100236039,0.6,same phone number; very similar name
+100235008,100235009,0.6,same phone number; very similar name
+100236772,100236774,0.6,same phone number; very similar name
+100235899,100235900,0.6,same phone number; very similar name
+100236758,100236759,0.6,same phone number; very similar name
+100236855,100236856,0.6,same phone number; very similar name
+100235896,100235897,0.6,same phone number; very similar name
+100236576,100236577,0.6,same phone number; very similar name
+100236668,100236669,0.6,same phone number; very similar name
+100235447,100235448,0.6,same phone number; very similar name
+100235874,100235875,0.6,same phone number; very similar name
+100235291,100235292,0.6,same phone number; very similar name
+100235811,100235812,0.6,same phone number; very similar name
+100235793,100235794,0.6,same phone number; very similar company
+100235665,100235666,0.6,same phone number; very similar name
+100234975,100234977,0.6,same phone number; very similar name
+100236649,100236650,0.6,same phone number; very similar name
+100235915,100235916,0.6,same phone number; very similar name
+100235809,100235810,0.6,same phone number; very similar name
+100235635,100235636,0.6,same phone number; very similar name
+100235420,100235421,0.6,same phone number; very similar name
+100236063,100236064,0.6,same phone number; very similar name
+100235696,100235697,0.6,same phone number; very similar name
+100234849,100234850,0.6,same phone number; very similar name
+100236409,100236410,0.6,same phone number; very similar name
+100236254,100236255,0.6,same phone number; very similar name
+100235920,100235921,0.59,same phone number; very similar name
+100236546,100236548,0.59,same phone number; very similar name
+100236203,100236204,0.59,same phone number; very similar name
+100236506,100236507,0.59,same phone number; very similar name
+100235190,100235191,0.59,same phone number; very similar name
+100236358,100236359,0.59,same phone number; very similar name
+100236179,100236180,0.59,same phone number; very similar name
+100236542,100236543,0.59,same phone number; very similar company
+100236657,100236658,0.59,same phone number; very similar name
+100235533,100235534,0.59,same phone number; very similar name
+100235047,100235048,0.59,same phone number; very similar name
+100235745,100235746,0.59,same phone number; very similar company
+100235981,100235983,0.59,same phone number; very similar company
+100235837,100235838,0.59,same phone number; very similar name
+100235259,100235260,0.59,same phone number; very similar name
+100236596,100236598,0.59,same phone number; very similar name
+100235713,100235714,0.59,same phone number; very similar name
+100235929,100235930,0.59,same phone number; very similar name
+100235200,100235201,0.59,same phone number; very similar name
+100235966,100235967,0.59,same phone number; very similar name
+100235480,100235481,0.59,same phone number; very similar name
+100235017,100235018,0.59,same phone number
+100236679,100236680,0.59,same phone number; very similar name
+100236562,100236563,0.59,same phone number; very similar name
+100236562,100236564,0.59,same phone number; very similar name
+100236396,100236397,0.59,same phone number; very similar name
+100236541,100236543,0.59,same phone number
+100234956,100234957,0.59,same phone number; very similar name
+100235567,100235568,0.59,same phone number; very similar name
+100235922,100235924,0.59,same phone number; very similar name
+100234966,100234967,0.59,same phone number; very similar company
+100236857,100236858,0.59,same phone number; very similar name
+100236279,100236280,0.59,same phone number; very similar name
+100235972,100235973,0.59,same phone number; very similar name
+100235637,100235638,0.59,same phone number; very similar name
+100236193,100236194,0.59,same phone number; very similar name
+100236464,100236465,0.59,same phone number; very similar name
+100236290,100236291,0.59,same phone number; very similar name
+100235978,100235979,0.59,same phone number; very similar name
+100235659,100235661,0.59,same phone number; very similar name
+100235028,100235029,0.59,same phone number; very similar name
+100235093,100235094,0.59,same phone number; very similar name
+100236773,100236774,0.59,same phone number; very similar name
+100235976,100235977,0.58,same phone number; very similar name
+100235982,100235983,0.58,same phone number
+100236792,100236794,0.58,same phone number; very similar name
+100234975,100234976,0.58,same phone number; very similar name
+100235935,100235936,0.58,same phone number; very similar name
+100236822,100236823,0.58,same phone number; very similar name
+100235128,100235129,0.58,same phone number; very similar name
+100236698,100236699,0.58,same phone number
+100236753,100236754,0.58,same phone number; very similar name
+100236553,100236554,0.58,same phone number; very similar name
+100236301,100236302,0.58,same phone number; very similar name
+100236431,100236433,0.58,same phone number
+100235637,100235639,0.58,same phone number; very similar name
+100235967,100235968,0.58,same phone number; very similar name
+100235779,100235780,0.58,same phone number; very similar name
+100235608,100235609,0.58,same phone number; very similar name
+100235086,100235087,0.58,same phone number
+100235951,100235953,0.58,same phone number; very similar name
+100235460,100235461,0.58,same phone number; very similar name
+100236379,100236380,0.57,same phone number; very similar company
+100235365,100235366,0.57,same phone number; very similar name
+100235041,100235042,0.57,same phone number; very similar name
+100236845,100236846,0.57,same phone number; very similar name
+100235587,100235588,0.57,same phone number
+100235638,100235639,0.57,same phone number; very similar name
+100235659,100235660,0.57,same phone number; very similar name
+100235443,100235444,0.57,same phone number; very similar name
+100236751,100236752,0.57,same phone number; very similar name
+100236233,100236234,0.57,same phone number
+100236049,100236050,0.57,same phone number; very similar name
+100235898,100235899,0.57,same phone number; very similar name
+100235922,100235923,0.57,same phone number
+100235479,100235481,0.57,same phone number; very similar name
+100236483,100236484,0.57,same phone number
+100234973,100234974,0.57,same phone number; very similar name
+100236731,100236732,0.57,same phone number; very similar name
+100236457,100236458,0.57,same phone number; very similar name
+100235051,100235052,0.57,same phone number; very similar name
+100236198,100236199,0.57,same phone number
+100235676,100235677,0.57,same phone number; very similar name
+100236038,100236039,0.57,same phone number
+100236655,100236656,0.56,same phone number; very similar name
+100235435,100235436,0.56,same phone number; very similar name
+100236278,100236280,0.56,same phone number; very similar name
+100236231,100236232,0.56,same phone number
+100234888,100234889,0.56,same phone number; very similar name
+100236084,100236085,0.56,same phone number
+100235298,100235299,0.56,same phone number; very similar name
+100236736,100236737,0.56,same phone number
+100235757,100235758,0.56,same phone number
+100234932,100234933,0.56,same phone number
+100236534,100236535,0.55,same phone number; very similar name
+100235089,100235090,0.55,same phone number
+100236163,100236164,0.55,same phone number
+100234955,100234956,0.55,same phone number
+100236792,100236793,0.55,same phone number
+100236393,100236394,0.55,same phone number; very similar name
+100235694,100235695,0.55,same phone number; very similar name
+100235754,100235755,0.55,same phone number
+100235923,100235924,0.55,same phone number
+100234955,100234957,0.54,same phone number
+100236546,100236547,0.54,same phone number
+100235128,100235130,0.54,same phone number
+100236094,100236095,0.53,same phone number
+100235926,100235927,0.52,same phone number
+100235351,100235352,0.52,same phone number
+100236793,100236794,0.52,same phone number
+100236547,100236548,0.52,same phone number
+100236704,100236705,0.52,same phone number
+100235532,100235902,0.3,very similar name; very similar company
+100236269,100236741,0.3,very similar name; very similar company

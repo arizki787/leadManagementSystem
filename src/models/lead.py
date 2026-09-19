@@ -1,8 +1,9 @@
 from datetime import date
-from pydantic import BaseModel
+from pydantic import BaseModel, ConfigDict
 
 
 class Lead(BaseModel):
+    model_config = ConfigDict(from_attributes=True)
     id: int
     fname: str | None = None
     lname: str | None = None

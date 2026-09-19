@@ -8,6 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+*sandbox*
 
 
 README2.md
